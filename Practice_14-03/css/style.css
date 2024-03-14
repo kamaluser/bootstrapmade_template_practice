@@ -1,0 +1,57 @@
+body{
+    box-sizing: border-box;
+}
+
+.row-1{
+    height: 300px;
+}
+
+.row-2{
+    height: 420px;
+    padding: 73px 0 49px;
+}
+
+.row-1 .center{
+    padding-top: 120px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.box{
+    align-items: center;
+}
+
+
+
+.box{
+    padding: 0 45px 74px 32px;
+}
+
+p{
+    font-family: Open Sans;
+    font-size: 18px;
+    line-height: 1.55em;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: none;
+}
+
+.center h1{
+    color: #262626;
+    font-family: Marcellus, sans-serif;
+    font-weight: 400;
+    font-size: 45px;
+}
+
+.boxes h2{
+    line-height: 1.5em;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.boxes p{
+    margin-top: 6px;
+}
